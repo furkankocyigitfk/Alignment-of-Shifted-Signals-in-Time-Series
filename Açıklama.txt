@@ -1,0 +1,13 @@
+Projenin çalıştırılabilmesi için aşağıdaki işlemleri gerçekleştiriniz:
+1-)Programı çalıştırmak için Python IDE sinin kurulu olduğundan emin olunuz.
+2-)pyqt5 ve pyqt5-tools kütüphanelerinin kurulu olduğundan emin olunuz.
+3-)Code klasörünü konsolda açarak python MainWindow3.py yazarak çalıştırınız.
+
+Raporu görüntülemek için aşağıdaki işlemleri geçekleştiriniz:
+1-)Doc klasörünü açınız.
+2-)Rapor_16011043.pdf dosyasını açınız.
+
+Kodu görüntülemek için aşağıdaki işlemleri geçekleştiriniz:
+1-)Code klasörünü açınız.
+2-)MainWindow3.py dosyasına sağ tıklayınız.
+3-)Herhangi bir text editor ile dosyayı açınız.(Not Defteri,Notepad,Sublime Text Editor gibi)

@@ -5,7 +5,7 @@ Projenin çalıştırılabilmesi için aşağıdaki işlemleri gerçekleştirini
 
 Raporu görüntülemek için aşağıdaki işlemleri geçekleştiriniz:
 1-)Doc klasörünü açınız.
-2-)Rapor_16011043.pdf dosyasını açınız.
+2-)Report.pdf dosyasını açınız.
 
 Kodu görüntülemek için aşağıdaki işlemleri geçekleştiriniz:
 1-)Code klasörünü açınız.
